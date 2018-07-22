@@ -1,0 +1,11 @@
+open server:
+1. open putty and connect.
+2. 'cd Doalfikar.com'
+3. 'pm2 start server.js'
+
+get newest server files from github:
+1. open putty and connect.
+2. 'cd Doalfikar.com'
+3. if server is already running, 'pm2 stop server.js'
+4. 'git pull'
+5. 'pm2 start server.js'
