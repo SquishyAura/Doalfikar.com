@@ -1,6 +1,12 @@
 deploy client:
 1. if old 'dist' folder exists, delete it.
 2. type in cmd 'cd C:\Users\Dilf\Desktop\Doalfikar.com coding environment\doalfikar-app'
+3. type in cmd 'ng build'
+
+update server:
+1. commit on visual studio code
+2. push
+3. go to the repository on github and approve commit
 
 open server:
 1. open putty and connect.
