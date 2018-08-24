@@ -1,3 +1,7 @@
+deploy client:
+1. if old 'dist' folder exists, delete it.
+2. type in cmd 'cd C:\Users\Dilf\Desktop\Doalfikar.com coding environment\doalfikar-app'
+
 open server:
 1. open putty and connect.
 2. 'cd Doalfikar.com'
